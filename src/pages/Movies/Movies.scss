@@ -1,0 +1,30 @@
+.movies-list {
+
+    h2 { 
+        font-size: 70px;
+        // margin-bottom: 20px;
+    }
+}
+
+
+.movie-card {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+
+    p {
+        font-size: 36px;
+        font-weight: 700;
+    }
+
+    img {
+        width: 200px;
+        height: auto;
+        object-fit: cover;
+    }
+}
+
+.movie-title {
+    width: 600px;
+}
+

@@ -1,0 +1,355 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Shawshank Redemption",
+            "duration": 142,
+            "poster": "../images/ironman.jpeg",
+            "description": "Two imprisoned men bond over years, finding redemption through acts of common decency.",
+            "rating": 9.3
+        },
+        {
+            "id": 2,
+            "title": "The Godfather",
+            "duration": 175,
+            "poster": "./ironman.jpeg",
+            "description": "An aging patriarch of a crime dynasty transfers control to his reluctant son.",
+            "rating": 9.2
+        },
+        {
+            "id": 3,
+            "title": "The Dark Knight",
+            "duration": 152,
+            "poster": "./ironman.jpeg",
+            "description": "Batman faces the Joker, a criminal mastermind who brings chaos to Gotham.",
+            "rating": 9.0
+        },
+        {
+            "id": 4,
+            "title": "Inception",
+            "duration": 148,
+            "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_SY679_.jpg",
+            "description": "A thief infiltrates dreams to plant ideas and steal secrets.",
+            "rating": 8.8
+        },
+        {
+            "id": 5,
+            "title": "Pulp Fiction",
+            "duration": 154,
+            "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg",
+            "description": "The lives of criminals intertwine in tales of violence and redemption.",
+            "rating": 8.9
+        },
+        {
+            "id": 6,
+            "title": "Fight Club",
+            "duration": 139,
+            "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+            "description": "An office worker and a soapmaker form an underground fight club.",
+            "rating": 8.8
+        },
+        {
+            "id": 7,
+            "title": "Forrest Gump",
+            "duration": 142,
+            "poster": "https://m.media-amazon.com/images/I/61+z5n2NwQL._AC_SY679_.jpg",
+            "description": "A slow-witted man unwittingly influences history with his simple outlook.",
+            "rating": 8.8
+        },
+        {
+            "id": 8,
+            "title": "Interstellar",
+            "duration": 169,
+            "poster": "https://m.media-amazon.com/images/I/91cdXU4XDHL._AC_SY679_.jpg",
+            "description": "Astronauts travel through a wormhole in search of a new home for humanity.",
+            "rating": 8.6
+        },
+        {
+            "id": 9,
+            "title": "Gladiator",
+            "duration": 155,
+            "poster": "https://m.media-amazon.com/images/I/51A9yxbUv9L._AC_SY679_.jpg",
+            "description": "A betrayed general fights as a gladiator to avenge his family.",
+            "rating": 8.5
+        },
+        {
+            "id": 10,
+            "title": "The Matrix",
+            "duration": 136,
+            "poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg",
+            "description": "A hacker learns the reality is a simulation and joins a rebellion.",
+            "rating": 8.7
+        },
+        {
+            "id": 11,
+            "title": "Saving Private Ryan",
+            "duration": 169,
+            "poster": "https://m.media-amazon.com/images/I/51j0Q9Jrk9L._AC_SY679_.jpg",
+            "description": "A team searches for a soldier in WWII after his brothers are killed.",
+            "rating": 8.6
+        },
+        {
+            "id": 12,
+            "title": "Schindler's List",
+            "duration": 195,
+            "poster": "https://m.media-amazon.com/images/I/51s+9rDkpaL._AC_.jpg",
+            "description": "A businessman saves over a thousand Jews during the Holocaust.",
+            "rating": 9.0
+        },
+        {
+            "id": 13,
+            "title": "Se7en",
+            "duration": 127,
+            "poster": "https://m.media-amazon.com/images/I/71Q1Iu4suSL._AC_SY679_.jpg",
+            "description": "Two detectives track a serial killer using the seven deadly sins.",
+            "rating": 8.6
+        },
+        {
+            "id": 14,
+            "title": "The Silence of the Lambs",
+            "duration": 118,
+            "poster": "https://m.media-amazon.com/images/I/71a9HqLkuML._AC_SY679_.jpg",
+            "description": "An FBI trainee seeks the help of a cannibalistic killer.",
+            "rating": 8.6
+        },
+        {
+            "id": 15,
+            "title": "Avengers: Endgame",
+            "duration": 181,
+            "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY679_.jpg",
+            "description": "The Avengers assemble to undo Thanos's catastrophic snap.",
+            "rating": 8.4
+        },
+        {
+            "id": 16,
+            "title": "The Green Mile",
+            "duration": 189,
+            "poster": "https://m.media-amazon.com/images/I/71YiOe8yUpL._AC_SY679_.jpg",
+            "description": "A death row guard discovers a prisoner's miraculous gift.",
+            "rating": 8.6
+        },
+        {
+            "id": 17,
+            "title": "Django Unchained",
+            "duration": 165,
+            "poster": "https://m.media-amazon.com/images/I/91Fhs9W6HcL._AC_SY679_.jpg",
+            "description": "A freed slave teams up with a bounty hunter to rescue his wife.",
+            "rating": 8.4
+        },
+        {
+            "id": 18,
+            "title": "Joker",
+            "duration": 122,
+            "poster": "https://m.media-amazon.com/images/I/71oJzmv7IPL._AC_SY679_.jpg",
+            "description": "A mentally troubled man becomes the infamous Gotham villain.",
+            "rating": 8.4
+        },
+        {
+            "id": 19,
+            "title": "Whiplash",
+            "duration": 106,
+            "poster": "https://m.media-amazon.com/images/I/91WxDyiRcKL._AC_SY679_.jpg",
+            "description": "A young drummer is pushed to his limit by an abusive instructor.",
+            "rating": 8.5
+        },
+        {
+            "id": 20,
+            "title": "The Prestige",
+            "duration": 130,
+            "poster": "https://m.media-amazon.com/images/I/71s1LRpaprL._AC_SY679_.jpg",
+            "description": "Two magicians engage in a dangerous rivalry.",
+            "rating": 8.5
+        },
+        {
+            "id": 21,
+            "title": "Parasite",
+            "duration": 132,
+            "poster": "https://m.media-amazon.com/images/I/91hajG+G5aL._AC_SY679_.jpg",
+            "description": "A poor family infiltrates the home of a wealthy one.",
+            "rating": 8.6
+        },
+        {
+            "id": 22,
+            "title": "The Wolf of Wall Street",
+            "duration": 180,
+            "poster": "https://m.media-amazon.com/images/I/71a1gbrB-jL._AC_SY679_.jpg",
+            "description": "A stockbroker rises to power through fraud and excess.",
+            "rating": 8.2
+        },
+        {
+            "id": 23,
+            "title": "12 Angry Men",
+            "duration": 96,
+            "poster": "https://m.media-amazon.com/images/I/81ENwB5bYRL._AC_SY679_.jpg",
+            "description": "A jury deliberates a murder trial in one tense room.",
+            "rating": 9.0
+        },
+        {
+            "id": 24,
+            "title": "Léon: The Professional",
+            "duration": 110,
+            "poster": "https://m.media-amazon.com/images/I/81-LnNPG7ML._AC_SY679_.jpg",
+            "description": "A hitman trains a young girl after her family is murdered.",
+            "rating": 8.5
+        },
+        {
+            "id": 25,
+            "title": "The Truman Show",
+            "duration": 103,
+            "poster": "https://m.media-amazon.com/images/I/71I+3F4jVrL._AC_SY679_.jpg",
+            "description": "A man discovers his entire life is a televised show.",
+            "rating": 8.2
+        },
+        {
+            "id": 26,
+            "title": "Good Will Hunting",
+            "duration": 126,
+            "poster": "https://m.media-amazon.com/images/I/81Y5WuARqpL._AC_SY679_.jpg",
+            "description": "A janitor at MIT is a self-taught mathematical genius.",
+            "rating": 8.3
+        },
+        {
+            "id": 27,
+            "title": "The Departed",
+            "duration": 151,
+            "poster": "https://m.media-amazon.com/images/I/91ubI3pNZtL._AC_SY679_.jpg",
+            "description": "An undercover cop and a mole struggle for control in Boston.",
+            "rating": 8.5
+        },
+        {
+            "id": 28,
+            "title": "La La Land",
+            "duration": 128,
+            "poster": "https://m.media-amazon.com/images/I/71RZgcoKx-L._AC_SY679_.jpg",
+            "description": "An actress and musician fall in love in Los Angeles.",
+            "rating": 8.0
+        },
+        {
+            "id": 29,
+            "title": "Titanic",
+            "duration": 195,
+            "poster": "https://m.media-amazon.com/images/I/71t6RZgD2mL._AC_SY679_.jpg",
+            "description": "A love story unfolds aboard the ill-fated Titanic.",
+            "rating": 7.9
+        },
+        {
+            "id": 30,
+            "title": "Avengers: Infinity War",
+            "duration": 149,
+            "poster": "https://m.media-amazon.com/images/I/81ai6zx6eXL._AC_SY679_.jpg",
+            "description": "The Avengers fight to stop Thanos from wiping out half of life.",
+            "rating": 8.4
+        }
+    ],
+    "genres": [
+        { "id": 1, "name": "Drama" },
+        { "id": 2, "name": "Action" },
+        { "id": 3, "name": "Crime" },
+        { "id": 4, "name": "Thriller" },
+        { "id": 5, "name": "Sci-Fi" },
+        { "id": 6, "name": "Fantasy" },
+        { "id": 7, "name": "Biography" },
+        { "id": 8, "name": "Adventure" },
+        { "id": 9, "name": "Romance" },
+        { "id": 10, "name": "Comedy" },
+        { "id": 11, "name": "History" },
+        { "id": 12, "name": "War" },
+        { "id": 13, "name": "Mystery" },
+        { "id": 14, "name": "Music" }
+    ],
+    "movieGenres": [
+        { "id": 1, "movieId": 1, "genreId": 1 },
+        { "id": 2, "movieId": 1, "genreId": 3 },
+        { "id": 3, "movieId": 2, "genreId": 2 },
+        { "id": 4, "movieId": 2, "genreId": 3 },
+        { "id": 5, "movieId": 3, "genreId": 2 },
+        { "id": 6, "movieId": 3, "genreId": 4 },
+        { "id": 7, "movieId": 4, "genreId": 5 },
+        { "id": 8, "movieId": 4, "genreId": 13 },
+        { "id": 9, "movieId": 5, "genreId": 3 },
+        { "id": 10, "movieId": 5, "genreId": 10 },
+        { "id": 11, "movieId": 6, "genreId": 1 },
+        { "id": 12, "movieId": 6, "genreId": 4 },
+        { "id": 13, "movieId": 7, "genreId": 1 },
+        { "id": 14, "movieId": 7, "genreId": 9 },
+        { "id": 15, "movieId": 8, "genreId": 5 },
+        { "id": 16, "movieId": 8, "genreId": 8 },
+        { "id": 17, "movieId": 9, "genreId": 2 },
+        { "id": 18, "movieId": 9, "genreId": 8 },
+        { "id": 19, "movieId": 10, "genreId": 5 },
+        { "id": 20, "movieId": 10, "genreId": 6 },
+        { "id": 21, "movieId": 11, "genreId": 12 },
+        { "id": 22, "movieId": 11, "genreId": 2 },
+        { "id": 23, "movieId": 12, "genreId": 1 },
+        { "id": 24, "movieId": 12, "genreId": 11 },
+        { "id": 25, "movieId": 13, "genreId": 4 },
+        { "id": 26, "movieId": 13, "genreId": 3 },
+        { "id": 27, "movieId": 14, "genreId": 4 },
+        { "id": 28, "movieId": 14, "genreId": 13 },
+        { "id": 29, "movieId": 15, "genreId": 2 },
+        { "id": 30, "movieId": 15, "genreId": 6 },
+        { "id": 31, "movieId": 16, "genreId": 1 },
+        { "id": 32, "movieId": 16, "genreId": 9 },
+        { "id": 33, "movieId": 17, "genreId": 2 },
+        { "id": 34, "movieId": 17, "genreId": 11 },
+        { "id": 35, "movieId": 18, "genreId": 1 },
+        { "id": 36, "movieId": 18, "genreId": 4 },
+        { "id": 37, "movieId": 19, "genreId": 1 },
+        { "id": 38, "movieId": 19, "genreId": 14 },
+        { "id": 39, "movieId": 20, "genreId": 4 },
+        { "id": 40, "movieId": 20, "genreId": 13 },
+        { "id": 41, "movieId": 21, "genreId": 1 },
+        { "id": 42, "movieId": 21, "genreId": 9 },
+        { "id": 43, "movieId": 22, "genreId": 7 },
+        { "id": 44, "movieId": 22, "genreId": 10 },
+        { "id": 45, "movieId": 23, "genreId": 1 },
+        { "id": 46, "movieId": 23, "genreId": 11 },
+        { "id": 47, "movieId": 24, "genreId": 2 },
+        { "id": 48, "movieId": 24, "genreId": 3 },
+        { "id": 49, "movieId": 25, "genreId": 1 },
+        { "id": 50, "movieId": 25, "genreId": 10 },
+        { "id": 51, "movieId": 26, "genreId": 1 },
+        { "id": 52, "movieId": 26, "genreId": 7 },
+        { "id": 53, "movieId": 27, "genreId": 2 },
+        { "id": 54, "movieId": 27, "genreId": 3 },
+        { "id": 55, "movieId": 28, "genreId": 9 },
+        { "id": 56, "movieId": 28, "genreId": 14 },
+        { "id": 57, "movieId": 29, "genreId": 1 },
+        { "id": 58, "movieId": 29, "genreId": 9 },
+        { "id": 59, "movieId": 30, "genreId": 2 },
+        { "id": 60, "movieId": 30, "genreId": 6 }
+    ],
+    "halls": [
+        { "id": 1, "name": "Зал A", "capacity": 100 },
+        { "id": 2, "name": "Зал B", "capacity": 80 },
+        { "id": 3, "name": "Зал C", "capacity": 60 },
+        { "id": 4, "name": "Зал D", "capacity": 120 },
+        { "id": 5, "name": "Зал VIP", "capacity": 40 }
+    ],
+    "sessions": [
+        { "id": 1, "movieId": 1, "hallId": 1, "time": "12:00", "price": 450 },
+        { "id": 2, "movieId": 1, "hallId": 3, "time": "18:00", "price": 500 },
+        { "id": 3, "movieId": 2, "hallId": 2, "time": "16:00", "price": 550 },
+        { "id": 4, "movieId": 2, "hallId": 4, "time": "20:00", "price": 600 },
+        { "id": 5, "movieId": 3, "hallId": 1, "time": "19:00", "price": 520 },
+        { "id": 6, "movieId": 3, "hallId": 5, "time": "22:00", "price": 750 },
+        { "id": 7, "movieId": 4, "hallId": 2, "time": "13:00", "price": 480 },
+        { "id": 8, "movieId": 4, "hallId": 1, "time": "21:30", "price": 510 },
+        { "id": 9, "movieId": 5, "hallId": 3, "time": "17:30", "price": 470 },
+        { "id": 10, "movieId": 6, "hallId": 4, "time": "20:00", "price": 530 },
+        { "id": 11, "movieId": 7, "hallId": 2, "time": "15:00", "price": 490 },
+        { "id": 12, "movieId": 8, "hallId": 5, "time": "21:00", "price": 750 },
+        { "id": 13, "movieId": 9, "hallId": 1, "time": "18:30", "price": 510 },
+        { "id": 14, "movieId": 10, "hallId": 3, "time": "16:30", "price": 520 },
+        { "id": 15, "movieId": 11, "hallId": 2, "time": "12:00", "price": 450 },
+        { "id": 16, "movieId": 12, "hallId": 5, "time": "19:45", "price": 800 },
+        { "id": 17, "movieId": 13, "hallId": 4, "time": "21:15", "price": 550 },
+        { "id": 18, "movieId": 14, "hallId": 1, "time": "13:30", "price": 460 },
+        { "id": 19, "movieId": 15, "hallId": 3, "time": "14:00", "price": 550 },
+        { "id": 20, "movieId": 16, "hallId": 2, "time": "20:15", "price": 600 },
+        { "id": 21, "movieId": 17, "hallId": 4, "time": "17:00", "price": 540 },
+        { "id": 22, "movieId": 18, "hallId": 1, "time": "19:00", "price": 530 },
+        { "id": 23, "movieId": 19, "hallId": 5, "time": "18:45", "price": 760 },
+        { "id": 24, "movieId": 20, "hallId": 3, "time": "16:15", "price": 510 }
+    ]
+}
