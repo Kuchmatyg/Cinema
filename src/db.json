@@ -320,11 +320,11 @@
         { "id": 60, "movieId": 30, "genreId": 6 }
     ],
     "halls": [
-        { "id": 1, "name": "Зал A", "capacity": 100 },
-        { "id": 2, "name": "Зал B", "capacity": 80 },
-        { "id": 3, "name": "Зал C", "capacity": 60 },
-        { "id": 4, "name": "Зал D", "capacity": 120 },
-        { "id": 5, "name": "Зал VIP", "capacity": 40 }
+        { "id": 1, "name": "Зал A", "capacity": 100, "image": "/images/Hall A.jpeg"},
+        { "id": 2, "name": "Зал B", "capacity": 80, "image": "/images/Hall B.jpeg" },
+        { "id": 3, "name": "Зал C", "capacity": 60, "image": "/images/Hall C.jpeg" },
+        { "id": 4, "name": "Зал D", "capacity": 120, "image": "/images/Hall D.jpeg" },
+        { "id": 5, "name": "Зал VIP", "capacity": 40, "image": "/images/Hall VIP.jpeg" }
     ],
     "sessions": [
         { "id": 1, "movieId": 1, "hallId": 1, "time": "12:00", "price": 450 },

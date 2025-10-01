@@ -11,7 +11,7 @@ export const Header = () => {
                     <ul>
                         <li><Link to="/about">О нас</Link></li>
                         <li><Link to="/movies">Фильмы</Link></li>
-                        <li>Залы</li>
+                        <li><Link to="/halls">Залы</Link></li>
                         <li>Сеансы</li>
                     </ul>
                 </nav>
